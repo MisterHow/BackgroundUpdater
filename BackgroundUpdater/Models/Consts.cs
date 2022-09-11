@@ -2,6 +2,6 @@
 {
     public class Consts
     {
-        public static string NASA_API_KEY = "kIaOZbKFVUv9WacckZXnZlvIxGd4F1HBcaJvIIC2";
+        public static string NASA_API_KEY = "<YOUR_API_KEY>";
     }
 }
